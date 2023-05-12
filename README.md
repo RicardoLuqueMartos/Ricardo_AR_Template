@@ -1,2 +1,2 @@
-# Ricardo_AR_Template
+# AR_Template_Project
  
